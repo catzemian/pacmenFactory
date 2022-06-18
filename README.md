@@ -1,4 +1,21 @@
 # pacmenFactory
+Description: 
+-Creates pacmen at random positions with (add packman button)
+-They bounce on the barriers while moving randomly with (start game button)
+-Velocity increases with (start game button multiple times)
+ 
+How to run: 
+-Drag and drop the HTML file into a browser
+-Press the add packman button do add pacmen
+-Press the start game button to make them move
+
+Roadmap of future improvements:
+-Create the roadmap in order to have a proper backman game
+    -Map with with a maze
+    -The ability to control the pack man with key strokes
+    -The ability to collect tokens while moving through the maze
+    -Ghost enemies
+
 MIT License
 
 Copyright (c) 2022 Christos Atzemian
